@@ -7,9 +7,10 @@ Welcome to my GitHub profile! I'm passionate about **web development**, **softwa
 - 🌱 I’m learning **HTML, CSS, and Javascript**.
 
 ## 📊 GitHub Stats
+<div style="display:flex;align-items:center;justify-content:center;flex-direction:column;">
 ![Rufus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rufus-gh&show_icons=true&hide_rank=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufus-gh&layout=donut&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rufus-gh)](https://git.io/streak-stats)
+</div>
 
 ## My Portfolio
 
