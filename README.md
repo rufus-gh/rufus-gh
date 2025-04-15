@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about **web development**, **softwa
 
 ## 📊 GitHub Stats
 <div style="display:flex;align-items:center;justify-content:center;flex-direction:column;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rufus-gh&show_icons=true&hide_rank=true&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rufus-gh&show_icons=true&hide_rank=true&theme=dark"><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufus-gh&layout=donut&theme=dark">
 </div>
 
