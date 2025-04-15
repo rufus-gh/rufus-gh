@@ -9,4 +9,8 @@ Welcome to my GitHub profile! I'm passionate about **web development**, **softwa
 ## 📊 GitHub Stats
 ![Rufus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rufus-gh&show_icons=true&theme=radical)
 
+## My Portfolio
+
+You can view my portfolio [here](https://rufus-gh.github.io)!
+
 Thanks for visiting my profile! Have a great day! 😊
