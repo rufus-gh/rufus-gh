@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm passionate about **web development**, **softwa
 
 ## 📊 GitHub Stats
 ![Rufus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rufus-gh&show_icons=true&hide_rank=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufus-gh&layout=donut&theme=dark)
 
 ## My Portfolio
 
