@@ -11,7 +11,7 @@ ANU student who builds full-stack apps, developer tools and machine-learning mod
 | [**edstem-mcp**](https://github.com/rufus-gh/edstem-mcp) | Read-only MCP server that lets AI assistants read Ed Discussion threads | Node.js, MCP |
 | [**hevy-api**](https://github.com/rufus-gh/hevy-api) | Unofficial TypeScript client for the Hevy gym app, built by reverse-engineering its network traffic | TypeScript |
 | [**recurrent-neural-network**](https://github.com/rufus-gh/recurrent-neural-network) | Character-level RNN written in plain numpy that learns to write Shakespeare | Python, numpy |
-| [**Krillion Endless**](https://github.com/rufus-gh/krillion-endless) ([play](https://krillion-endless.vercel.app)) | Unlimited rarity-trivia game with realtime multiplayer rooms | JavaScript |
+| [**Uniplan**](https://github.com/rufus-gh/uniplan) | Self-hosted university planner that syncs Canvas, Gradescope, Ed and timetable data to an editable two-way CalDAV calendar, with LLM extraction, marks tracking and study planning | Python |
 
 ## Tech
 
